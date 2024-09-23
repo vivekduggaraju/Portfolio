@@ -61,7 +61,7 @@ const{setActiveSection, setTimeOfLastClick}=useActiveSectionContext();
             animate={{opacity:1 , y:0}} 
             >
                            
-                Hey, I'm <span className='font-bold'>  Vivek </span>. A{" "}<span className='font-bold'> software developer </span>based in{" "}<span className='italic'> Atlanta, GA </span>, passionate to tackle{" "}<span className='font-bold'>real-world challenges </span> through creative techological approaches. My current focus is{" "}<span className='underline'>Python (Django Rest and Flask)</span>.
+                Hey, I'm <span className='font-bold'>  Vivek </span>. A{" "}<span className='font-bold'> software developer </span>based in{" "}<span className='italic'> Atlanta, GA </span>, passionate to tackle{" "}<span className='font-bold'>real-world challenges </span> through creative technological approaches. My current focus is{" "}<span className='underline'>Python (Django Rest and Flask)</span>.
              
         </motion.h1>
     <motion.div className='flex flex-col sm:flex-row items-center justify-center gap-2 px-4 text-lg font-medium ' 
