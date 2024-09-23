@@ -41,7 +41,7 @@ export const experiencesData = [
     title: "Backend Developer Intern at SkyIT (GBCS Group)",
     location: "Remote",
     description:
-      "Collaborated on three major projects, reducing onboarding time by 40% and improving system security. Helped in developing an API testing tool that increased testing accuracy by 60%.",
+      "Collaborated on three major projects, reducing onboarding time by 40% and improving system security. Helped develop an API testing tool that increased testing accuracy by 60%.",
       icon: React.createElement(CgWorkAlt),
     date: "May 2024 - August 2024",
   },
@@ -79,14 +79,14 @@ export const projectsData = [
   {
     title: "SkyIt",
     description:
-      "I worked as a backend developer intern on a freight management system at SkyIT. The system is currenly in production by the GBCS Group",
+      "I worked as a backend developer intern on a freight management system at SkyIT. The system is currently in production by the GBCS Group",
     tags: ["Django Rest", "SQL", "React", "Linux", "Git"],
     imageUrl: skyit,
   },
   {
     title: "Portfolio website",
     description:
-      "Created this interactive portfolio website from scratch with the help of a youtube tutorials",
+      "Created this interactive portfolio website from scratch with the help of YouTube tutorials",
     tags: ["React", "TypeScript", "Next.js", "React Email", "FramerMotion", "Vercel"],
     imageUrl: portfolio,
   },
