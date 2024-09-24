@@ -34,11 +34,12 @@ export default function RootLayout({
         <div className="bg-[#c8ffda] absolute top-[-6rem] -z-10 right-[11rem] h-[31.25rem] w-[31.25rem] rounded-full blur-[20rem] sm:w-[68.75rem] dark:bg-[#323342] dark:-z-10"></div>
         <div className="bg-[#f9c0c0] absolute top-[-1rem] -z-10 left-[-35rem] h-[31.25rem] w-[50rem] rounded-full blur-[20rem] sm:w-[68.75rem] md:left-[-33rem] lg:left-[-28rem] xl:left-[-15rem] 2xl:left-[-5rem] dark:bg-[#453d3b] dark:-z-10"></div>
         <div 
-  className=" absolute -z-50 dark:w-[80rem] dark:-z-20 dark:rounded-full dark:blur-[0rem] blur-[20rem] " 
+  className=" absolute -z-50 dark:w-[15rem]  dark:-z-20 dark:rounded-full dark:blur-[0rem] blur-[20rem]  " 
   style={{
+      
       backgroundImage: 'url(/stars.png)', 
-      width: '80rem', 
-      height: '30rem',
+      width: '100%', 
+      height: '11%',
       top: '8%',
       left: '50%',
       transform: 'translate(-50%, -50%)'
