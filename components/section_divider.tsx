@@ -9,7 +9,7 @@ export default function SectionDivider() {
   return (
     <motion.div  style={{ 
       position: "relative",
-      width:'100%', height:'42rem',
+      width:'70%', height:'30rem',
 
 
       transform:  'translate(0, 100 %)',
